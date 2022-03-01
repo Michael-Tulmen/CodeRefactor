@@ -26,3 +26,13 @@ THEN I find a concise, descriptive title
 ## Credits
 
 https://courses.bootcampspot.com/courses/1195/assignments/23389?module_item_id=459833
+  
+## Before-After
+  
+Before:
+  
+[Before.pdf](https://github.com/Michael-Tulmen/CodeRefactor/files/8158660/Before.pdf)  
+  
+After:
+  
+[After.pdf](https://github.com/Michael-Tulmen/CodeRefactor/files/8158651/After.pdf)
